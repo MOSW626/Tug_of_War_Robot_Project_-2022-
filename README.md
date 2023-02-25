@@ -4,3 +4,6 @@
  - 지금까지의 과정 업로드용
  - 대통령상 수상
  - It was made based on the Blancing Robot.
+
+## language
+ : cpp (arduino)
